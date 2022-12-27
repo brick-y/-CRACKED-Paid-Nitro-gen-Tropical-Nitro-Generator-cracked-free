@@ -2,6 +2,13 @@
 
 Tropical Gen generates and checks discord nitro codes for authenticity by checking the URL status code and sends them to the webhook of your choice.
 
+<br />
+<div align="center">
+  <a href="https://github.com/brick-y/-CRACKED-Paid-Nitro-gen-Tropical-Nitro-Generator-cracked-free">
+    <img src="images/tropical.png" alt="Logo" width="700" height="400">
+  </a>
+ </div>
+ 
 ## Description
 
 I bought tropical gen for $15 lifetime and was able to crack the code, sadly it is still obfuscated but I was able to make one of the best nitro generators free for everyone!
