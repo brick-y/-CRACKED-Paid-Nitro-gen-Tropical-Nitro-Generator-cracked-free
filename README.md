@@ -5,7 +5,7 @@ Tropical Gen generates and checks discord nitro codes for authenticity by checki
 <br />
 <div align="center">
   <a href="https://github.com/brick-y/-CRACKED-Paid-Nitro-gen-Tropical-Nitro-Generator-cracked-free">
-    <img src="images/tropical.png" alt="Logo" width="700" height="400">
+    <img src="images/Tropical.png" alt="Logo" width="700" height="400">
   </a>
  </div>
  
