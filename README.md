@@ -11,7 +11,7 @@ Tropical Gen generates and checks discord nitro codes for authenticity by checki
  
 ## Description
 
-I bought tropical gen for $15 lifetime and was able to crack the code, sadly it is still obfuscated but I was able to make one of the best nitro generators free for everyone!
+I bought tropical gen for $15 lifetime and was able to crack the code so anyone can use it to their hearts desire!
 
 ## Getting Started
 
