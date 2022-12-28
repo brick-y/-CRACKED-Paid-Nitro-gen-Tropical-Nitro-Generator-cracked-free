@@ -1,20 +1,17 @@
-import os
-
 def cls():
  os.system("cls")
 
-os.system("pip install pycolorio==2.2")
+try:
+  import pycolorio
+except:
+  os.system("pip install pycolorio==2.2")
+  import pycolorio
 cls()
-import pycolorio
-os.system("pip install ctypes")
-cls()
-os.system("pip install requests")
-cls()
-os.system("pip install random")
-cls()
-os.system("pip install string")
-cls()
-os.system("pip install time")
+try:
+  import requests
+else:
+  os.system("pip install requests")
+  import requests
 cls()
 
 import ctypes
