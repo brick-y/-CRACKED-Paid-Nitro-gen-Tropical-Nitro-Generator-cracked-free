@@ -5,7 +5,7 @@ def cls():
 
 os.system("pip install nitro-checker")
 cls()
-import nitro-checker 
+import nitro-checker==1.0
 os.system("pip install ctypes")
 cls()
 os.system("pip install requests")
